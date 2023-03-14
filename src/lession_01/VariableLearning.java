@@ -1,4 +1,4 @@
-package Lession_01;
+package lession_01;
 
 public class VariableLearning {
     public static void main(String[] args) {
@@ -21,8 +21,11 @@ public class VariableLearning {
         System.out.println(myDoubleNumber);
         System.out.println(Double.MAX_VALUE);
         System.out.println(Double.MIN_VALUE);
-        long myLongNumber = 2663767L;
+      long myLongNumber = 2663767L;
         System.out.println("MyLongNumber:" + Long.MAX_VALUE);
+      boolean myBvar = true;
+      myBvar = false;
+      char character = 'd';
         /* note tips for name variable */
         //snake_case
         int my_byte_number_one = 128;
