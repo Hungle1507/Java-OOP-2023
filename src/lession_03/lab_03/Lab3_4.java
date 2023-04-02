@@ -31,7 +31,7 @@ public class Lab3_4 {
         System.out.println("listArrFirst:" + listArrFirst);
         System.out.println("listArrSecond:" + listArrSecond);
 
-        Collections.sort(listArrMerged); // sort list listArrThird
+        Collections.sort(listArrMerged); // sort list listArrMerged
         System.out.println("listArrMerged:" + listArrMerged);
 
     }
